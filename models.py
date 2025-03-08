@@ -16,3 +16,4 @@ class Cliente(BaseModel):
     nome: str
     email: str
     telefone: str
+    usuario_id: int
